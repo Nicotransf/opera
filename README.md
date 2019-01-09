@@ -1,2 +1,3 @@
-# opera
-this is opera settings
+singers list
+-------------
+- sopran
