@@ -2,6 +2,7 @@ singers list
 -------------
 - sopran
 - bas
+- tenor
 
 program
 -----------
